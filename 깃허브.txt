@@ -1,0 +1,22 @@
+깃 설치하기
+구글 검색 :gitbash -64비트 윈도우 용
+
+github.com: 깃저장소 가입하기
+
+-sun5sun@hanmail.net 계정
+
+레포지토리 주소
+https://github.com/jungsun-web/main.git
+
+
+1. git init   : 생성
+2. git remote add orgin "깃허브 경로"        : 원격저장소 추가
+3. git remote -v         : 연결되었나 확인
+
+4. git branch -M 원하는 이름
+5. git add .
+
+6. git push -u origin main
+
+
+
